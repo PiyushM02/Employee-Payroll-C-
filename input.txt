@@ -1,0 +1,17 @@
+Sales
+Rose
+Diaz
+25
+40
+Mateo
+Lopez
+15
+30
+Jane
+Smith
+30
+50
+John
+Brown
+10
+15
